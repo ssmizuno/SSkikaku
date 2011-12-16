@@ -1,0 +1,128 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* sskikaku */ = {
+		activeExec = 0;
+		executables = (
+			F5D2209013408A6600FFC736 /* sskikaku */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = F5D2209013408A6600FFC736 /* sskikaku */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* sskikaku */;
+		codeSenseManager = F5D220B213408A7600FFC736 /* Code sense */;
+		executables = (
+			F5D2209013408A6600FFC736 /* sskikaku */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					834,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 323167738;
+			PBXWorkspaceStateSaveDate = 323167738;
+		};
+		perUserProjectItems = {
+			F5AE708B13432706008B5B4D /* PlistBookmark */ = F5AE708B13432706008B5B4D /* PlistBookmark */;
+			F5D2211613409ACD00FFC736 /* PBXBookmark */ = F5D2211613409ACD00FFC736 /* PBXBookmark */;
+			F5D2211713409ACD00FFC736 /* PBXBookmark */ = F5D2211713409ACD00FFC736 /* PBXBookmark */;
+			F5D2211913409ACD00FFC736 /* PlistBookmark */ = F5D2211913409ACD00FFC736 /* PlistBookmark */;
+		};
+		sourceControlManager = F5D220B113408A7600FFC736 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F5AE708B13432706008B5B4D /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* sskikaku-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"UILaunchImageFile~ipad",
+		);
+		name = "/Users/mizunomasashi/Dropbox/SSkikaku/sskikaku-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	F5D2209013408A6600FFC736 /* sskikaku */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = sskikaku;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F5D220B113408A7600FFC736 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F5D220B213408A7600FFC736 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	F5D2211613409ACD00FFC736 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	F5D2211713409ACD00FFC736 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+	};
+	F5D2211913409ACD00FFC736 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* sskikaku-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			"UILaunchImageFile~ipad",
+		);
+		name = "/Users/mizunomasashi/Dropbox/SSkikaku/AGC_sampleProgram1_0-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+}

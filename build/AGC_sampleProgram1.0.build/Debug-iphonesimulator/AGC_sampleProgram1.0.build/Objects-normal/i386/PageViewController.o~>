@@ -1,0 +1,19 @@
+In file included from /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:12:
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.h:10:22: error: SlideView.h: No such file or directory
+In file included from /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:12:
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.h:13: error: cannot find protocol declaration for 'SlideViewDelegate'
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:13:24: error: TopPageView.h: No such file or directory
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:14:27: error: SecondPageView.h: No such file or directory
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:15:26: error: ThirdPageView.h: No such file or directory
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:16:27: error: FourthPageView.h: No such file or directory
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m: In function '-[PageViewController loadView]':
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:34: error: 'FourthPageView' undeclared (first use in this function)
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:34: error: (Each undeclared identifier is reported only once
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:34: error: for each function it appears in.)
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:35: error: expected expression before ')' token
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:38: error: 'TopPageView' undeclared (first use in this function)
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:39: error: expected expression before ')' token
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:42: error: 'SecondPageView' undeclared (first use in this function)
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:43: error: expected expression before ')' token
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:46: error: 'ThirdPageView' undeclared (first use in this function)
+/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:47: error: expected expression before ')' token

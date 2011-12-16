@@ -1,0 +1,271 @@
+TAGC_sampleProgram1.0
+v7
+r0
+t320279486.975128
+cCheck dependencies
+cProcessInfoPlistFile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Info.plist AGC_sampleProgram1_0-Info.plist
+cCompileXIB /Users/masa_jene/Desktop/AGC_sampleProgram1.0/MainWindow.xib
+cCompileXIB /Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0ViewController.xib
+cProcessPCH /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch.gch AGC_sampleProgram1_0_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/main.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PageViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D2C06D20000000000000110
+t1294730962
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D2BF4EB0000000000298910
+t1294726379
+s2722064
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D2BF558000000000029DA10
+t1294726488
+s2742800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2BF5490000000000001466
+t1294726473
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2C05020000000000000AA1
+t1294730498
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D2C055500000000007662E0
+t1294730581
+s7758560
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0ViewController.xib
+c000000004D66DA140000000000003F15
+t1298586132
+s16149
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0_Prefix.pch
+c000000004D66DA1400000000000000D1
+t1298586132
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.h
+c000000004D66DBA70000000000000236
+t1298586535
+s566
+i<UIKit/UIKit.h>
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m
+c000000004D66DBF7000000000000089D
+t1298586615
+s2205
+i"AGC_sampleProgram1_0AppDelegate.h"
+i"PageViewController.h"
+i"TopPageView.h"
+i"ContentTableViewController.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0ViewController.h
+c000000004D66DA130000000000000117
+t1298586131
+s279
+i<UIKit/UIKit.h>
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0ViewController.m
+c000000004D66DA13000000000000058E
+t1298586131
+s1422
+i"AGC_sampleProgram1_0ViewController.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.h
+c000000004D66DC370000000000000107
+t1298586679
+s263
+i<UIKit/UIKit.h>
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m
+c000000004D66DC3D000000000000057E
+t1298586685
+s1406
+i"AGC_sampleProgram1_0ViewController.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/MainWindow.xib
+c000000004D66DA140000000000004D8B
+t1298586132
+s19851
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1.0.LinkFileList
+c000000004D66DC3D00000000000001FA
+t1298586685
+s506
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o
+t2
+s0
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0ViewController.o
+t2
+s0
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PageViewController.o
+t2
+s0
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/main.o
+t1298586686
+s6324
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app
+t2
+s0
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app.dSYM
+t2
+s0
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0
+t2
+s0
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1_0ViewController.nib
+t1298586685
+s1232
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Info.plist
+t1298586685
+s856
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/MainWindow.nib
+t1298586685
+s1708
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PkgInfo
+t1298586685
+s8
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m
+c000000004D66DA140000000000000178
+t1298586132
+s376
+i<UIKit/UIKit.h>
+
+N/var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch.gch
+t1298586686
+s15809968
+
+NAGC_sampleProgram1_0-Info.plist
+c000000004D66DA1400000000000004D6
+t1298586132
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320279485#320279485#0(0"0(0#1#0"3524964816145887232#0"0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320279486.869286
+e320279486.931738
+r0
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:11:24: error: TopPageView.h: No such file or directory
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:12:39: error: ContentTableViewController.h: No such file or directory
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m: In function '-[AGC_sampleProgram1_0AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:26: error: 'ContentTableViewController' undeclared (first use in this function)
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:26: error: (Each undeclared identifier is reported only once
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:26: error: for each function it appears in.)
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:26: error: 'contentViewController' undeclared (first use in this function)
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:31: error: 'PageViewController' undeclared (first use in this function)
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:31: error: 'pageViewController' undeclared (first use in this function)
+lSLF07#2@95"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m320279486#320279486#0(1416"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:11:24: error: TopPageView.h: No such file or directory/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:12:39: error: ContentTableViewController.h: No such file or directory/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m: In function '-[AGC_sampleProgram1_0AppDelegate application:didFinishLaunchingWithOptions:]':/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:26: error: 'ContentTableViewController' undeclared (first use in this function)/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:26: error: (Each undeclared identifier is reported only once/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:26: error: for each function it appears in.)/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:26: error: 'contentViewController' undeclared (first use in this function)/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:31: error: 'PageViewController' undeclared (first use in this function)/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m:31: error: 'pageViewController' undeclared (first use in this function)6(4@40"TopPageView.h: No such file or directory320279486#0#143#0(6@87"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m320279415#11#0#11#0#28"*: No such file or directory0(4@55"ContentTableViewController.h: No such file or directory320279486#143#158#0(6@87"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m320279415#12#0#12#0#28"*: No such file or directory0(4@68"'ContentTableViewController' undeclared (first use in this function)320279486#483#168#0(6@87"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m320279415#26#0#26#0#43"'*' undeclared (first use in this function)0(4@63"'contentViewController' undeclared (first use in this function)320279486#933#163#0(6@87"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m320279415#26#0#26#0#43"'*' undeclared (first use in this function)0(4@60"'PageViewController' undeclared (first use in this function)320279486#1096#160#0(6@87"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m320279415#31#0#31#0#43"'*' undeclared (first use in this function)0(4@60"'pageViewController' undeclared (first use in this function)320279486#1256#160#0(6@87"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m320279415#31#0#31#0#43"'*' undeclared (first use in this function)0(0#0#87"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m8610180064#2313"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o1#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0ViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PageViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320279486.930615
+e320279486.974876
+r0
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PageViewController.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:9:47: error: AGC_sampleProgram1_0ViewController.h: No such file or directory
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:41: warning: cannot find interface declaration for 'AGC_sampleProgram1_0ViewController'
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m: In function '-[AGC_sampleProgram1_0ViewController didReceiveMemoryWarning]':
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:47: error: no super class declared in @interface for 'AGC_sampleProgram1_0ViewController'
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m: In function '-[AGC_sampleProgram1_0ViewController dealloc]':
+o/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:59: error: no super class declared in @interface for 'AGC_sampleProgram1_0ViewController'
+lSLF07#2@82"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m320279486#320279486#0(935"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:9:47: error: AGC_sampleProgram1_0ViewController.h: No such file or directory/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:41: warning: cannot find interface declaration for 'AGC_sampleProgram1_0ViewController'/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m: In function '-[AGC_sampleProgram1_0ViewController didReceiveMemoryWarning]':/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:47: error: no super class declared in @interface for 'AGC_sampleProgram1_0ViewController'/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m: In function '-[AGC_sampleProgram1_0ViewController dealloc]':/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m:59: error: no super class declared in @interface for 'AGC_sampleProgram1_0ViewController'4(4@63"AGC_sampleProgram1_0ViewController.h: No such file or directory320279486#0#152#0(6@74"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m320279485#9#0#9#0#28"*: No such file or directory0(22@74"Cannot find interface declaration for 'AGC_sampleProgram1_0ViewController'320279486#152#163#0(6@74"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m320279485#41#0#41#0#0"0(4@78"No super class declared in @interface for 'AGC_sampleProgram1_0ViewController'320279486#468#165#0(6@74"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m320279485#47#0#47#0#0"0(4@78"No super class declared in @interface for 'AGC_sampleProgram1_0ViewController'320279486#770#165#0(6@74"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m320279485#59#0#59#0#0"0(0#0#74"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m8612233216#2287"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PageViewController.o1#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/main.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320279486.868053
+e320279486.930353
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/main.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m320279486#320279486#0(0"0(0#0#52"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m8610664544#2251"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0ViewController.xib
+s320279485.472210
+e320279485.907296
+r1
+xCompileXIB
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0ViewController.xib
+lSLF07#2@49"CompileXIB AGC_sampleProgram1_0ViewController.xib320279485#320279485#0(0"0(0#0#84"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0ViewController.xib8610657184#652"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1_0ViewController.nib /Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/masa_jene/Desktop/AGC_sampleProgram1.0/MainWindow.xib
+s320279485.471385
+e320279485.960182
+r1
+xCompileXIB
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320279485#320279485#0(0"0(0#0#60"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/MainWindow.xib8610744256#604"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/MainWindow.nib /Users/masa_jene/Desktop/AGC_sampleProgram1.0/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app.dSYM /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0
+r0
+
+CLd /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0 normal i386
+r0
+
+CProcessInfoPlistFile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Info.plist AGC_sampleProgram1_0-Info.plist
+s320279485.456489
+e320279485.471289
+r1
+xProcessInfoPlistFile
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Info.plist
+xAGC_sampleProgram1_0-Info.plist
+lSLF07#2@39"Process AGC_sampleProgram1_0-Info.plist320279485#320279485#0(0"0(0#0#77"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0-Info.plist8601893376#539"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AGC_sampleProgram1_0-Info.plist -genpkginfo /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Info.plist0#
+
+CProcessPCH /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch.gch AGC_sampleProgram1_0_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320279485.960308
+e320279486.867802
+r1
+xProcessPCH
+x/var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch.gch
+xAGC_sampleProgram1_0_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile AGC_sampleProgram1_0_Prefix.pch320279485#320279486#0(0"0(0#0#77"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0_Prefix.pch8609096000#2123"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0_Prefix.pch -o /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch.gch0#
+
+CTouch /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app
+r0
+

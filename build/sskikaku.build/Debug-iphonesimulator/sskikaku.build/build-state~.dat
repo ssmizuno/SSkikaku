@@ -1,0 +1,1253 @@
+Tsskikaku
+v7
+r0
+t322996870.853017
+cCheck dependencies
+cProcessInfoPlistFile /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/Info.plist AGC_sampleProgram1_0-Info.plist
+cCompileXIB /Users/mizunomasashi/Dropbox/SSkikaku/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/sskikaku.app/001.png content/image/scroll/001.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/002.png content/image/scroll/002.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/003.png content/image/scroll/003.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/004.png content/image/scroll/004.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/001Title.txt content/text/001Title.txt
+cCpResource build/Debug-iphonesimulator/sskikaku.app/ThirdText.txt content/text/ThirdText.txt
+cCpResource build/Debug-iphonesimulator/sskikaku.app/YuitoText.txt content/text/YuitoText.txt
+cCpResource build/Debug-iphonesimulator/sskikaku.app/PublishText01.txt content/text/PublishText01.txt
+cCpResource build/Debug-iphonesimulator/sskikaku.app/Default-Landscape.png Default-Landscape.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/Default-Portfolio.png Default-Portfolio.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/icon.png icon.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/btn_camera.png btn_camera.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/index.png index.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/btn_retouch.png btn_retouch.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/btn_Video.png btn_Video.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/btn_HP.png btn_HP.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/btn_print.png btn_print.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/btn_abook.png btn_abook.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/Base.png Base.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/002Title.txt content/text/002Title.txt
+cCpResource build/Debug-iphonesimulator/sskikaku.app/PublishText02.txt content/text/PublishText02.txt
+cCpResource build/Debug-iphonesimulator/sskikaku.app/Base01.png Base01.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/005.png content/image/scroll/005.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/006.png content/image/scroll/006.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/Base02.png Base02.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/s001.png s001.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/s002.png s002.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/s003.png s003.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/s004.png s004.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/PublishText03.txt content/text/PublishText03.txt
+cCpResource build/Debug-iphonesimulator/sskikaku.app/Video_play.png Video_play.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/florida.m4v florida.m4v
+cCpResource build/Debug-iphonesimulator/sskikaku.app/Base03.png Base03.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/Logo.png Logo.png
+cCpResource build/Debug-iphonesimulator/sskikaku.app/PublishText04.txt content/text/PublishText04.txt
+cProcessPCH /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch.gch AGC_sampleProgram1_0_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/main.o /Users/mizunomasashi/Dropbox/SSkikaku/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/AGC_sampleProgram1_0AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/PageViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/PageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/MapAnnotation.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/MapAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/MyMoviePlayerViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/MyMoviePlayerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ScrollViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ScrollViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/PopoverViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/PopoverViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ContentTableViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ContentTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/SlideView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/SlideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/TopPageView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/TopPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/SecondPageView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/SecondPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ThirdPageView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ThirdPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/FourthPageView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/FourthPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/sskikaku normal i386
+cGenerateDSYMFile /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app.dSYM /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/sskikaku
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004CC1294D000000000000027E
+t1287727437
+s638
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004CC656490000000000000294
+t1288066633
+s660
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC6569800000000001AAD60
+t1288066712
+s1748320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/AGC_sampleProgram1_0_Prefix.pch
+c000000004D66DA1400000000000000D1
+t1298586132
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Base.png
+c000000004D90069C0000000000002CD8
+t1301284508
+s11480
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Base01.png
+c000000004D9029D5000000000006C893
+t1301293525
+s444563
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Base02.png
+c000000004D9035A4000000000005AF5C
+t1301296548
+s372572
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Base03.png
+c000000004D90449E0000000000062CA4
+t1301300382
+s404644
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/AGC_sampleProgram1_0AppDelegate.h
+c000000004D676A4E000000000000030C
+t1298623054
+s780
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/AGC_sampleProgram1_0AppDelegate.m
+c000000004D6767A50000000000000972
+t1298622373
+s2418
+i"AGC_sampleProgram1_0AppDelegate.h"
+i"PageViewController.h"
+i"TopPageView.h"
+i"ContentTableViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ContentTableViewController.h
+c000000004D6758A10000000000000217
+t1298618529
+s535
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ContentTableViewController.m
+c000000004D9046130000000000000EFC
+t1301300755
+s3836
+i"ContentTableViewController.h"
+i"AGC_sampleProgram1_0AppDelegate.h"
+i"PageViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/FourthPageView.h
+c000000004D6767CB000000000000029F
+t1298622411
+s671
+i<UIKit/UIKit.h>
+i"SlideView.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/FourthPageView.m
+c000000004D90478400000000000022F4
+t1301301124
+s8948
+i"FourthPageView.h"
+i"MapKit/MapKit.h"
+i"MapAnnotation.h"
+i"PopoverViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/MapAnnotation.h
+c000000004D6758F60000000000000315
+t1298618614
+s789
+i<Foundation/Foundation.h>
+i<MapKit/MKAnnotation.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/MapAnnotation.m
+c000000004D6759340000000000000238
+t1298618676
+s568
+i"MapAnnotation.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/MyMoviePlayerViewController.h
+c000000004D8C314D000000000000020D
+t1301033293
+s525
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/MyMoviePlayerViewController.m
+c000000004D6758CF0000000000000453
+t1298618575
+s1107
+i"MyMoviePlayerViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/PageViewController.h
+c000000004D6759130000000000000245
+t1298618643
+s581
+i<UIKit/UIKit.h>
+i"SlideView.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/PageViewController.m
+c000000004D67652C00000000000019B2
+t1298621740
+s6578
+i"PageViewController.h"
+i"TopPageView.h"
+i"SecondPageView.h"
+i"ThirdPageView.h"
+i"FourthPageView.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/PopoverViewController.h
+c000000004D67589D0000000000000201
+t1298618525
+s513
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/PopoverViewController.m
+c000000004D6759660000000000000598
+t1298618726
+s1432
+i"PopoverViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ScrollViewController.h
+c000000004D6758C00000000000000268
+t1298618560
+s616
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ScrollViewController.m
+c000000004D6758B50000000000001368
+t1298618549
+s4968
+i"ScrollViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/SecondPageView.h
+c000000004D90365300000000000002A1
+t1301296723
+s673
+i<UIKit/UIKit.h>
+i"SlideView.h"
+i<MediaPlayer/MediaPlayer.h>
+i"MyMoviePlayerViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/SecondPageView.m
+c000000004D9045340000000000001B23
+t1301300532
+s6947
+i"SecondPageView.h"
+i"MapKit/MapKit.h"
+i"MapAnnotation.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/SlideView.h
+c000000004D6765C00000000000000376
+t1298621888
+s886
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/SlideView.m
+c000000004D675BB100000000000007C4
+t1298619313
+s1988
+i"SlideView.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ThirdPageView.h
+c000000004D903DC5000000000000029F
+t1301298629
+s671
+i<UIKit/UIKit.h>
+i"SlideView.h"
+i<MediaPlayer/MediaPlayer.h>
+i"MyMoviePlayerViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ThirdPageView.m
+c000000004D90494D00000000000015CD
+t1301301581
+s5581
+i"ThirdPageView.h"
+i"MapKit/MapKit.h"
+i"MapAnnotation.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/TopPageView.h
+c000000004D902333000000000000029B
+t1301291827
+s667
+i<UIKit/UIKit.h>
+i"SlideView.h"
+i<MediaPlayer/MediaPlayer.h>
+i"MyMoviePlayerViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/TopPageView.m
+c000000004D9034190000000000001AE2
+t1301296153
+s6882
+i"TopPageView.h"
+i"MapKit/MapKit.h"
+i"MapAnnotation.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Default-Landscape.png
+c000000004D8CBEE80000000000002387
+t1301069544
+s9095
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Default-Portfolio.png
+c000000004D8CBE930000000000002909
+t1301069459
+s10505
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Logo.png
+c000000004D9045F10000000000000E93
+t1301300721
+s3731
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/MainWindow.xib
+c000000004D676B4B00000000000048DA
+t1298623307
+s18650
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Video_play.png
+c000000004D9040B600000000000073DA
+t1301299382
+s29658
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/btn_HP.png
+c000000004D8FFB8E0000000000012422
+t1301281678
+s74786
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/btn_Video.png
+c000000004D8FF8C8000000000001426D
+t1301280968
+s82541
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/btn_abook.png
+c000000004D900058000000000001603F
+t1301282904
+s90175
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/btn_camera.png
+c000000004D8FF2680000000000013547
+t1301279336
+s79175
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/btn_print.png
+c000000004D8FFEB7000000000000F8C3
+t1301282487
+s63683
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/btn_retouch.png
+c000000004D8FF72200000000000115CF
+t1301280546
+s71119
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app.dSYM
+t1301304070
+s102
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/001.png
+t1301304065
+s485279
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/001Title.txt
+t1301304065
+s87
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/002.png
+t1301304065
+s449931
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/002Title.txt
+t1301304065
+s12
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/003.png
+t1301304065
+s446234
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/004.png
+t1301304065
+s499868
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/005.png
+t1301304065
+s476414
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/006.png
+t1301304065
+s439357
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/Base.png
+t1301304065
+s11480
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/Base01.png
+t1301304065
+s444563
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/Base02.png
+t1301304065
+s372572
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/Base03.png
+t1301304065
+s404644
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/Default-Landscape.png
+t1301304065
+s9095
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/Default-Portfolio.png
+t1301304065
+s10505
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/Info.plist
+t1301304065
+s1031
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/Logo.png
+t1301304066
+s3731
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/MainWindow.nib
+t1301304066
+s1657
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/PkgInfo
+t1301304065
+s8
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/PublishText01.txt
+t1301304065
+s1074
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/PublishText02.txt
+t1301304065
+s808
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/PublishText03.txt
+t1301304066
+s1006
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/PublishText04.txt
+t1301304066
+s983
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/ThirdText.txt
+t1301304065
+s486
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/Video_play.png
+t1301304065
+s29658
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/YuitoText.txt
+t1301304065
+s151
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/btn_HP.png
+t1301304065
+s74786
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/btn_Video.png
+t1301304065
+s82541
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/btn_abook.png
+t1301304065
+s90175
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/btn_camera.png
+t1301304065
+s79175
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/btn_print.png
+t1301304065
+s63683
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/btn_retouch.png
+t1301304065
+s71119
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/florida.m4v
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/icon.png
+t1301304065
+s3189
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/index.png
+t1301304065
+s11215
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/s001.png
+t1301304065
+s461449
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/s002.png
+t1301304065
+s350535
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/s003.png
+t1301304065
+s394928
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/s004.png
+t1301304065
+s283685
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/sskikaku
+t1301304070
+s89356
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o
+t1301304069
+s56572
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ContentTableViewController.o
+t1301304070
+s54276
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/FourthPageView.o
+t1301304070
+s69092
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/MapAnnotation.o
+t1301304069
+s11560
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/MyMoviePlayerViewController.o
+t1301304069
+s38672
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/PageViewController.o
+t1301304069
+s53264
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/PopoverViewController.o
+t1301304069
+s41384
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ScrollViewController.o
+t1301304069
+s55308
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/SecondPageView.o
+t1301304070
+s66904
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/SlideView.o
+t1301304069
+s45684
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ThirdPageView.o
+t1301304070
+s64140
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/TopPageView.o
+t1301304070
+s66764
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/main.o
+t1301304069
+s6300
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/sskikaku.LinkFileList
+c000000004D90530100000000000006E8
+t1301304065
+s1768
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/001.png
+c000000004D903197000000000007679F
+t1301295511
+s485279
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/002.png
+c000000004D9031BC000000000006DD8B
+t1301295548
+s449931
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/003.png
+c000000004D9031E5000000000006CF1A
+t1301295589
+s446234
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/004.png
+c000000004D90320F000000000007A09C
+t1301295631
+s499868
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/005.png
+c000000004D90321D00000000000744FE
+t1301295645
+s476414
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/006.png
+c000000004D903233000000000006B43D
+t1301295667
+s439357
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/001Title.txt
+c000000004D8CCE1B0000000000000057
+t1301073435
+s87
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/002Title.txt
+c000000004D90150C000000000000000C
+t1301288204
+s12
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText01.txt
+c000000004D8FEFC10000000000000432
+t1301278657
+s1074
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText02.txt
+c000000004D901EC00000000000000328
+t1301290688
+s808
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText03.txt
+c000000004D903CDE00000000000003EE
+t1301298398
+s1006
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText04.txt
+c000000004D90492800000000000003D7
+t1301301544
+s983
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/ThirdText.txt
+c000000004D65F34300000000000001E6
+t1298527043
+s486
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/YuitoText.txt
+c000000004D65FD4E0000000000000097
+t1298529614
+s151
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/florida.m4v
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/icon.png
+c000000004D8CCB400000000000000C75
+t1301072704
+s3189
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/index.png
+c000000004D8FF3000000000000002BCF
+t1301279488
+s11215
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/main.m
+c000000004D6766EF0000000000000178
+t1298622191
+s376
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/s001.png
+c000000004D9038B40000000000070A89
+t1301297332
+s461449
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/s002.png
+c000000004D9038C10000000000055947
+t1301297345
+s350535
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/s003.png
+c000000004D9038CD00000000000606B0
+t1301297357
+s394928
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/s004.png
+c000000004D90390F0000000000045425
+t1301297423
+s283685
+
+N/var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch.gch
+t1301304068
+s15453392
+
+NAGC_sampleProgram1_0-Info.plist
+c000000004D8CCB6800000000000005CC
+t1301072744
+s1484
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322996865#322996865#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/AGC_sampleProgram1_0AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996869.172636
+e322996869.390480
+r1
+xCompileC
+xbuild/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o
+x/Users/mizunomasashi/Dropbox/SSkikaku/Classes/AGC_sampleProgram1_0AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/mizunomasashi/Dropbox/SSkikaku/Classes/AGC_sampleProgram1_0AppDelegate.m322996869#322996869#0(0"0(0#0#79"/Users/mizunomasashi/Dropbox/SSkikaku/Classes/AGC_sampleProgram1_0AppDelegate.m8607285312#2009"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -include /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch -c /Users/mizunomasashi/Dropbox/SSkikaku/Classes/AGC_sampleProgram1_0AppDelegate.m -o /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o0#
+
+CCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ContentTableViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ContentTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996869.839090
+e322996870.014874
+r1
+xCompileC
+xbuild/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ContentTableViewController.o
+x/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ContentTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ContentTableViewController.m322996869#322996870#0(0"0(0#0#74"/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ContentTableViewController.m8606252832#1999"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -include /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch -c /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ContentTableViewController.m -o /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ContentTableViewController.o0#
+
+CCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/FourthPageView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/FourthPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996870.227707
+e322996870.409155
+r1
+xCompileC
+xbuild/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/FourthPageView.o
+x/Users/mizunomasashi/Dropbox/SSkikaku/Classes/FourthPageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/mizunomasashi/Dropbox/SSkikaku/Classes/FourthPageView.m322996870#322996870#0(0"0(0#0#62"/Users/mizunomasashi/Dropbox/SSkikaku/Classes/FourthPageView.m8606895264#1975"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -include /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch -c /Users/mizunomasashi/Dropbox/SSkikaku/Classes/FourthPageView.m -o /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/FourthPageView.o0#
+
+CCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/MapAnnotation.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/MapAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996869.390580
+e322996869.516167
+r1
+xCompileC
+xbuild/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/MapAnnotation.o
+x/Users/mizunomasashi/Dropbox/SSkikaku/Classes/MapAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/mizunomasashi/Dropbox/SSkikaku/Classes/MapAnnotation.m322996869#322996869#0(0"0(0#0#61"/Users/mizunomasashi/Dropbox/SSkikaku/Classes/MapAnnotation.m8606308640#1973"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -include /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch -c /Users/mizunomasashi/Dropbox/SSkikaku/Classes/MapAnnotation.m -o /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/MapAnnotation.o0#
+
+CCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/MyMoviePlayerViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/MyMoviePlayerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996869.516264
+e322996869.744384
+r1
+xCompileC
+xbuild/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/MyMoviePlayerViewController.o
+x/Users/mizunomasashi/Dropbox/SSkikaku/Classes/MyMoviePlayerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/mizunomasashi/Dropbox/SSkikaku/Classes/MyMoviePlayerViewController.m322996869#322996869#0(0"0(0#0#75"/Users/mizunomasashi/Dropbox/SSkikaku/Classes/MyMoviePlayerViewController.m8606030304#2001"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -include /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch -c /Users/mizunomasashi/Dropbox/SSkikaku/Classes/MyMoviePlayerViewController.m -o /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/MyMoviePlayerViewController.o0#
+
+CCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/PageViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/PageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996869.379801
+e322996869.714951
+r1
+xCompileC
+xbuild/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/PageViewController.o
+x/Users/mizunomasashi/Dropbox/SSkikaku/Classes/PageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/mizunomasashi/Dropbox/SSkikaku/Classes/PageViewController.m322996869#322996869#0(0"0(0#0#66"/Users/mizunomasashi/Dropbox/SSkikaku/Classes/PageViewController.m8606504800#1983"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -include /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch -c /Users/mizunomasashi/Dropbox/SSkikaku/Classes/PageViewController.m -o /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/PageViewController.o0#
+
+CCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/PopoverViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/PopoverViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996869.744484
+e322996869.859889
+r1
+xCompileC
+xbuild/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/PopoverViewController.o
+x/Users/mizunomasashi/Dropbox/SSkikaku/Classes/PopoverViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/mizunomasashi/Dropbox/SSkikaku/Classes/PopoverViewController.m322996869#322996869#0(0"0(0#0#69"/Users/mizunomasashi/Dropbox/SSkikaku/Classes/PopoverViewController.m8606569952#1989"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -include /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch -c /Users/mizunomasashi/Dropbox/SSkikaku/Classes/PopoverViewController.m -o /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/PopoverViewController.o0#
+
+CCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ScrollViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ScrollViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996869.715048
+e322996869.838994
+r1
+xCompileC
+xbuild/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ScrollViewController.o
+x/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ScrollViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ScrollViewController.m322996869#322996869#0(0"0(0#0#68"/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ScrollViewController.m8607161984#1987"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -include /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch -c /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ScrollViewController.m -o /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ScrollViewController.o0#
+
+CCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/SecondPageView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/SecondPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996870.014974
+e322996870.225761
+r1
+xCompileC
+xbuild/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/SecondPageView.o
+x/Users/mizunomasashi/Dropbox/SSkikaku/Classes/SecondPageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/mizunomasashi/Dropbox/SSkikaku/Classes/SecondPageView.m322996870#322996870#0(0"0(0#0#62"/Users/mizunomasashi/Dropbox/SSkikaku/Classes/SecondPageView.m8607272608#1975"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -include /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch -c /Users/mizunomasashi/Dropbox/SSkikaku/Classes/SecondPageView.m -o /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/SecondPageView.o0#
+
+CCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/SlideView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/SlideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996869.859997
+e322996869.975618
+r1
+xCompileC
+xbuild/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/SlideView.o
+x/Users/mizunomasashi/Dropbox/SSkikaku/Classes/SlideView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/mizunomasashi/Dropbox/SSkikaku/Classes/SlideView.m322996869#322996869#0(0"0(0#0#57"/Users/mizunomasashi/Dropbox/SSkikaku/Classes/SlideView.m8604081792#1965"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -include /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch -c /Users/mizunomasashi/Dropbox/SSkikaku/Classes/SlideView.m -o /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/SlideView.o0#
+
+CCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ThirdPageView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ThirdPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996870.225859
+e322996870.403175
+r1
+xCompileC
+xbuild/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ThirdPageView.o
+x/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ThirdPageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ThirdPageView.m322996870#322996870#0(0"0(0#0#61"/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ThirdPageView.m8607216640#1973"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -include /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch -c /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ThirdPageView.m -o /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/ThirdPageView.o0#
+
+CCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/TopPageView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/TopPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996869.975717
+e322996870.227624
+r1
+xCompileC
+xbuild/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/TopPageView.o
+x/Users/mizunomasashi/Dropbox/SSkikaku/Classes/TopPageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/mizunomasashi/Dropbox/SSkikaku/Classes/TopPageView.m322996869#322996870#0(0"0(0#0#59"/Users/mizunomasashi/Dropbox/SSkikaku/Classes/TopPageView.m8603368672#1969"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -include /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch -c /Users/mizunomasashi/Dropbox/SSkikaku/Classes/TopPageView.m -o /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/TopPageView.o0#
+
+CCompileC build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/main.o /Users/mizunomasashi/Dropbox/SSkikaku/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996869.171331
+e322996869.379701
+r1
+xCompileC
+xbuild/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/main.o
+x/Users/mizunomasashi/Dropbox/SSkikaku/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/mizunomasashi/Dropbox/SSkikaku/main.m322996869#322996869#0(0"0(0#0#44"/Users/mizunomasashi/Dropbox/SSkikaku/main.m8602619136#1947"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -include /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch -c /Users/mizunomasashi/Dropbox/SSkikaku/main.m -o /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mizunomasashi/Dropbox/SSkikaku/MainWindow.xib
+s322996865.514284
+e322996866.278745
+r1
+xCompileXIB
+x/Users/mizunomasashi/Dropbox/SSkikaku/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322996865#322996866#0(0"0(0#0#52"/Users/mizunomasashi/Dropbox/SSkikaku/MainWindow.xib8602708160#568"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/MainWindow.nib /Users/mizunomasashi/Dropbox/SSkikaku/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/001.png content/image/scroll/001.png
+s322996865.515493
+e322996865.906389
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/001.png
+xcontent/image/scroll/001.png
+lSLF07#2@33"Copy content/image/scroll/001.png322996865#322996865#0(0"0(0#0#66"/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/001.png8601363968#484"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/001.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/001Title.txt content/text/001Title.txt
+s322996865.522474
+e322996865.648725
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/001Title.txt
+xcontent/text/001Title.txt
+lSLF07#2@30"Copy content/text/001Title.txt322996865#322996865#0(0"0(0#0#63"/Users/mizunomasashi/Dropbox/SSkikaku/content/text/001Title.txt8606038976#481"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/text/001Title.txt /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/002.png content/image/scroll/002.png
+s322996865.517237
+e322996865.897717
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/002.png
+xcontent/image/scroll/002.png
+lSLF07#2@33"Copy content/image/scroll/002.png322996865#322996865#0(0"0(0#0#66"/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/002.png8603358304#484"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/002.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/002Title.txt content/text/002Title.txt
+s322996865.674628
+e322996865.710838
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/002Title.txt
+xcontent/text/002Title.txt
+lSLF07#2@30"Copy content/text/002Title.txt322996865#322996865#0(0"0(0#0#63"/Users/mizunomasashi/Dropbox/SSkikaku/content/text/002Title.txt8603540192#481"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/text/002Title.txt /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/003.png content/image/scroll/003.png
+s322996865.518961
+e322996865.863199
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/003.png
+xcontent/image/scroll/003.png
+lSLF07#2@33"Copy content/image/scroll/003.png322996865#322996865#0(0"0(0#0#66"/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/003.png8603230304#484"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/003.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/004.png content/image/scroll/004.png
+s322996865.520710
+e322996866.350855
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/004.png
+xcontent/image/scroll/004.png
+lSLF07#2@33"Copy content/image/scroll/004.png322996865#322996866#0(0"0(0#0#66"/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/004.png8606264992#484"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/004.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/005.png content/image/scroll/005.png
+s322996865.683647
+e322996866.043700
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/005.png
+xcontent/image/scroll/005.png
+lSLF07#2@33"Copy content/image/scroll/005.png322996865#322996866#0(0"0(0#0#66"/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/005.png8603304576#484"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/005.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/006.png content/image/scroll/006.png
+s322996865.711039
+e322996866.042935
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/006.png
+xcontent/image/scroll/006.png
+lSLF07#2@33"Copy content/image/scroll/006.png322996865#322996866#0(0"0(0#0#66"/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/006.png8603186624#484"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/006.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/Base.png Base.png
+s322996865.670882
+e322996865.683559
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/Base.png
+xBase.png
+lSLF07#2@13"Copy Base.png322996865#322996865#0(0"0(0#0#46"/Users/mizunomasashi/Dropbox/SSkikaku/Base.png8603627392#464"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/Base.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/Base01.png Base01.png
+s322996865.678747
+e322996865.919775
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/Base01.png
+xBase01.png
+lSLF07#2@15"Copy Base01.png322996865#322996865#0(0"0(0#0#48"/Users/mizunomasashi/Dropbox/SSkikaku/Base01.png8603388768#466"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/Base01.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/Base02.png Base02.png
+s322996865.711877
+e322996866.091754
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/Base02.png
+xBase02.png
+lSLF07#2@15"Copy Base02.png322996865#322996866#0(0"0(0#0#48"/Users/mizunomasashi/Dropbox/SSkikaku/Base02.png8603104576#466"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/Base02.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/Base03.png Base03.png
+s322996865.942716
+e322996866.351931
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/Base03.png
+xBase03.png
+lSLF07#2@15"Copy Base03.png322996865#322996866#0(0"0(0#0#48"/Users/mizunomasashi/Dropbox/SSkikaku/Base03.png8606311456#466"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/Base03.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/Default-Landscape.png Default-Landscape.png
+s322996865.530171
+e322996865.616604
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/Default-Landscape.png
+xDefault-Landscape.png
+lSLF07#2@26"Copy Default-Landscape.png322996865#322996865#0(0"0(0#0#59"/Users/mizunomasashi/Dropbox/SSkikaku/Default-Landscape.png8603208832#477"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/Default-Landscape.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/Default-Portfolio.png Default-Portfolio.png
+s322996865.616693
+e322996865.622279
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/Default-Portfolio.png
+xDefault-Portfolio.png
+lSLF07#2@26"Copy Default-Portfolio.png322996865#322996865#0(0"0(0#0#59"/Users/mizunomasashi/Dropbox/SSkikaku/Default-Portfolio.png8600949760#477"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/Default-Portfolio.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/Logo.png Logo.png
+s322996866.015189
+e322996866.020058
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/Logo.png
+xLogo.png
+lSLF07#2@13"Copy Logo.png322996866#322996866#0(0"0(0#0#46"/Users/mizunomasashi/Dropbox/SSkikaku/Logo.png8606117536#464"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/Logo.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/PublishText01.txt content/text/PublishText01.txt
+s322996865.527676
+e322996865.648851
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/PublishText01.txt
+xcontent/text/PublishText01.txt
+lSLF07#2@35"Copy content/text/PublishText01.txt322996865#322996865#0(0"0(0#0#68"/Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText01.txt8603434336#486"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText01.txt /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/PublishText02.txt content/text/PublishText02.txt
+s322996865.676854
+e322996865.710966
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/PublishText02.txt
+xcontent/text/PublishText02.txt
+lSLF07#2@35"Copy content/text/PublishText02.txt322996865#322996865#0(0"0(0#0#68"/Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText02.txt8603454208#486"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText02.txt /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/PublishText03.txt content/text/PublishText03.txt
+s322996865.917846
+e322996866.015101
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/PublishText03.txt
+xcontent/text/PublishText03.txt
+lSLF07#2@35"Copy content/text/PublishText03.txt322996865#322996866#0(0"0(0#0#68"/Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText03.txt8605811776#486"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText03.txt /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/PublishText04.txt content/text/PublishText04.txt
+s322996866.020144
+e322996866.029802
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/PublishText04.txt
+xcontent/text/PublishText04.txt
+lSLF07#2@35"Copy content/text/PublishText04.txt322996866#322996866#0(0"0(0#0#68"/Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText04.txt8603666240#486"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText04.txt /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/ThirdText.txt content/text/ThirdText.txt
+s322996865.524257
+e322996865.653225
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/ThirdText.txt
+xcontent/text/ThirdText.txt
+lSLF07#2@31"Copy content/text/ThirdText.txt322996865#322996865#0(0"0(0#0#64"/Users/mizunomasashi/Dropbox/SSkikaku/content/text/ThirdText.txt8603245696#482"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/text/ThirdText.txt /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/Video_play.png Video_play.png
+s322996865.919851
+e322996865.925413
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/Video_play.png
+xVideo_play.png
+lSLF07#2@19"Copy Video_play.png322996865#322996865#0(0"0(0#0#52"/Users/mizunomasashi/Dropbox/SSkikaku/Video_play.png8600974336#470"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/Video_play.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/YuitoText.txt content/text/YuitoText.txt
+s322996865.525989
+e322996865.653343
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/YuitoText.txt
+xcontent/text/YuitoText.txt
+lSLF07#2@31"Copy content/text/YuitoText.txt322996865#322996865#0(0"0(0#0#64"/Users/mizunomasashi/Dropbox/SSkikaku/content/text/YuitoText.txt8603564224#482"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/content/text/YuitoText.txt /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/btn_HP.png btn_HP.png
+s322996865.659052
+e322996865.678673
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/btn_HP.png
+xbtn_HP.png
+lSLF07#2@15"Copy btn_HP.png322996865#322996865#0(0"0(0#0#48"/Users/mizunomasashi/Dropbox/SSkikaku/btn_HP.png8604411712#466"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/btn_HP.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/btn_Video.png btn_Video.png
+s322996865.653413
+e322996865.676775
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/btn_Video.png
+xbtn_Video.png
+lSLF07#2@18"Copy btn_Video.png322996865#322996865#0(0"0(0#0#51"/Users/mizunomasashi/Dropbox/SSkikaku/btn_Video.png8604601088#469"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/btn_Video.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/btn_abook.png btn_abook.png
+s322996865.667589
+e322996865.722215
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/btn_abook.png
+xbtn_abook.png
+lSLF07#2@18"Copy btn_abook.png322996865#322996865#0(0"0(0#0#51"/Users/mizunomasashi/Dropbox/SSkikaku/btn_abook.png8603675360#469"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/btn_abook.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/btn_camera.png btn_camera.png
+s322996865.627682
+e322996865.667498
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/btn_camera.png
+xbtn_camera.png
+lSLF07#2@19"Copy btn_camera.png322996865#322996865#0(0"0(0#0#52"/Users/mizunomasashi/Dropbox/SSkikaku/btn_camera.png8601102432#470"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/btn_camera.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/btn_print.png btn_print.png
+s322996865.661805
+e322996865.674535
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/btn_print.png
+xbtn_print.png
+lSLF07#2@18"Copy btn_print.png322996865#322996865#0(0"0(0#0#51"/Users/mizunomasashi/Dropbox/SSkikaku/btn_print.png8603899648#469"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/btn_print.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/btn_retouch.png btn_retouch.png
+s322996865.650015
+e322996865.670795
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/btn_retouch.png
+xbtn_retouch.png
+lSLF07#2@20"Copy btn_retouch.png322996865#322996865#0(0"0(0#0#53"/Users/mizunomasashi/Dropbox/SSkikaku/btn_retouch.png8605973152#471"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/btn_retouch.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/florida.m4v florida.m4v
+s322996865.925503
+e322996865.942638
+r0
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/florida.m4v
+xflorida.m4v
+opbxcp: florida.m4v: No such file or directory
+lSLF07#2@16"Copy florida.m4v322996865#322996865#0(46"pbxcp: florida.m4v: No such file or directory1(4@45"pbxcp: florida.m4v: No such file or directory322996865#18446744073709551615#0#0(6@0"322996865#0#0#0#0#0"0(0#0#49"/Users/mizunomasashi/Dropbox/SSkikaku/florida.m4v8604591360#467"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/florida.m4v /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app1#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/icon.png icon.png
+s322996865.622368
+e322996865.627595
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png322996865#322996865#0(0"0(0#0#46"/Users/mizunomasashi/Dropbox/SSkikaku/icon.png8603862272#464"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/icon.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/index.png index.png
+s322996865.648923
+e322996865.661696
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/index.png
+xindex.png
+lSLF07#2@14"Copy index.png322996865#322996865#0(0"0(0#0#47"/Users/mizunomasashi/Dropbox/SSkikaku/index.png8606628992#465"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/index.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/s001.png s001.png
+s322996865.722291
+e322996866.241448
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/s001.png
+xs001.png
+lSLF07#2@13"Copy s001.png322996865#322996866#0(0"0(0#0#46"/Users/mizunomasashi/Dropbox/SSkikaku/s001.png8602722336#464"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/s001.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/s002.png s002.png
+s322996865.863327
+e322996866.033937
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/s002.png
+xs002.png
+lSLF07#2@13"Copy s002.png322996865#322996866#0(0"0(0#0#46"/Users/mizunomasashi/Dropbox/SSkikaku/s002.png8600113920#464"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/s002.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/s003.png s003.png
+s322996865.897806
+e322996866.206783
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/s003.png
+xs003.png
+lSLF07#2@13"Copy s003.png322996865#322996866#0(0"0(0#0#46"/Users/mizunomasashi/Dropbox/SSkikaku/s003.png8590359520#464"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/s003.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CCpResource build/Debug-iphonesimulator/sskikaku.app/s004.png s004.png
+s322996865.906478
+e322996865.917755
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/sskikaku.app/s004.png
+xs004.png
+lSLF07#2@13"Copy s004.png322996865#322996865#0(0"0(0#0#46"/Users/mizunomasashi/Dropbox/SSkikaku/s004.png8603499712#464"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mizunomasashi/Dropbox/SSkikaku/s004.png /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app0#
+
+CGenerateDSYMFile /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app.dSYM /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/sskikaku
+s322996870.761297
+e322996870.852935
+r1
+xGenerateDSYMFile
+x/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app.dSYM
+x/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/sskikaku
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/sskikaku.app.dSYM build/Debug-iphonesimulator/sskikaku.app/sskikaku322996870#322996870#0(0"0(0#0#87"/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/sskikaku8606109856#383"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/sskikaku -o /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app.dSYM0#
+
+CLd /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/sskikaku normal i386
+s322996870.409244
+e322996870.761159
+r1
+xLd
+x/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/sskikaku
+xnormal
+xi386
+lSLF07#2@92"Link /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/sskikaku322996870#322996870#0(0"0(0#0#0"8607127776#941"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -filelist /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/Objects-normal/i386/sskikaku.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework MediaPlayer -o /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/sskikaku0#
+
+CProcessInfoPlistFile /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/Info.plist AGC_sampleProgram1_0-Info.plist
+s322996865.471877
+e322996865.514189
+r1
+xProcessInfoPlistFile
+x/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/Info.plist
+xAGC_sampleProgram1_0-Info.plist
+lSLF07#2@39"Process AGC_sampleProgram1_0-Info.plist322996865#322996865#0(0"0(0#0#69"/Users/mizunomasashi/Dropbox/SSkikaku/AGC_sampleProgram1_0-Info.plist30962724186357872#491"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AGC_sampleProgram1_0-Info.plist -genpkginfo /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app/Info.plist0#
+
+CProcessPCH /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch.gch AGC_sampleProgram1_0_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322996866.352108
+e322996869.171175
+r1
+xProcessPCH
+x/var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch.gch
+xAGC_sampleProgram1_0_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile AGC_sampleProgram1_0_Prefix.pch322996866#322996869#0(0"0(0#0#69"/Users/mizunomasashi/Dropbox/SSkikaku/AGC_sampleProgram1_0_Prefix.pch8603310304#1851"    cd /Users/mizunomasashi/Dropbox/SSkikaku    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-generated-files.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-own-target-headers.hmap -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-all-target-headers.hmap -iquote /Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/sskikaku-project-headers.hmap -F/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator -I/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/include -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources/i386 -I/Users/mizunomasashi/Dropbox/SSkikaku/build/sskikaku.build/Debug-iphonesimulator/sskikaku.build/DerivedSources -c /Users/mizunomasashi/Dropbox/SSkikaku/AGC_sampleProgram1_0_Prefix.pch -o /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch.gch0#
+
+CTouch /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/sskikaku.app
+r0
+

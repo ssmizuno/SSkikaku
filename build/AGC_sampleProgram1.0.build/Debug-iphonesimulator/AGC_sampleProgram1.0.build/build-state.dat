@@ -1,0 +1,1796 @@
+TAGC_sampleProgram1.0
+v7
+r0
+t320320622.596233
+cCheck dependencies
+cProcessInfoPlistFile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Info.plist AGC_sampleProgram1_0-Info.plist
+cCompileXIB /Users/masa_jene/Desktop/AGC_sampleProgram1.0/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001_01.png content/image/001_01.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001_02.png content/image/001_02.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001_03.png content/image/001_03.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_01.png content/image/002_01.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_02.png content/image/002_02.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_03.png content/image/002_03.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_04.png content/image/002_04.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Default-Portfolio.png content/image/Launch/Default-Portfolio.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/icon.png content/image/Launch/icon.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001.png content/image/scroll/001.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002.png content/image/scroll/002.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/003.png content/image/scroll/003.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/004.png content/image/scroll/004.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Logo.png content/image/Logo.png
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001Title.txt content/text/001Title.txt
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/ThirdText.txt content/text/ThirdText.txt
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/YuitoText.txt content/text/YuitoText.txt
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/sample001.mov content/movie/sample001.mov
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/movie001.m4v content/movie/movie001.m4v
+cCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PublishText.txt content/text/PublishText.txt
+cProcessPCH /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch.gch AGC_sampleProgram1_0_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/main.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PageViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MapAnnotation.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MapAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MyMoviePlayerViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MyMoviePlayerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ScrollViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ScrollViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PopoverViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PopoverViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ContentTableViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ContentTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SlideView.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SlideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/TopPageView.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/TopPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SecondPageView.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SecondPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ThirdPageView.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ThirdPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/FourthPageView.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/FourthPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0 normal i386
+cGenerateDSYMFile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app.dSYM /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0
+cTouch /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004CC1294D000000000000027E
+t1287727437
+s638
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004CC1294D00000000000002FE
+t1287727437
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004CC12977000000000017E7F0
+t1287727479
+s1566704
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004CC656490000000000000294
+t1288066633
+s660
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC6569800000000001AAD60
+t1288066712
+s1748320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D2C06D20000000000000110
+t1294730962
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D2BF4EB0000000000298910
+t1294726379
+s2722064
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D2BF558000000000029DA10
+t1294726488
+s2742800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2BF5490000000000001466
+t1294726473
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MKAnnotation.h
+c000000004D2C069900000000000002BC
+t1294730905
+s700
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004D2C069900000000000002FE
+t1294730905
+s766
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004D2C06AB000000000018CA30
+t1294730923
+s1624624
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004D2C07360000000000000294
+t1294731062
+s660
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004D2C078000000000001C1470
+t1294731136
+s1840240
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2C05020000000000000AA1
+t1294730498
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D2C055500000000007662E0
+t1294730581
+s7758560
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0ViewController.xib
+c000000004D66DA140000000000003F15
+t1298586132
+s16149
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0_Prefix.pch
+c000000004D66DA1400000000000000D1
+t1298586132
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.h
+c000000004D676A4E000000000000030C
+t1298623054
+s780
+i<UIKit/UIKit.h>
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m
+c000000004D6767A50000000000000972
+t1298622373
+s2418
+i"AGC_sampleProgram1_0AppDelegate.h"
+i"PageViewController.h"
+i"TopPageView.h"
+i"ContentTableViewController.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0ViewController.h
+c000000004D66DA130000000000000117
+t1298586131
+s279
+i<UIKit/UIKit.h>
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0ViewController.m
+c000000004D66DA13000000000000058E
+t1298586131
+s1422
+i"AGC_sampleProgram1_0ViewController.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ContentTableViewController.h
+c000000004D6758A10000000000000217
+t1298618529
+s535
+i<UIKit/UIKit.h>
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ContentTableViewController.m
+c000000004D676AFB0000000000000F12
+t1298623227
+s3858
+i"ContentTableViewController.h"
+i"AGC_sampleProgram1_0AppDelegate.h"
+i"PageViewController.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/FourthPageView.h
+c000000004D6767CB000000000000029F
+t1298622411
+s671
+i<UIKit/UIKit.h>
+i"SlideView.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/FourthPageView.m
+c000000004D6767E700000000000011C7
+t1298622439
+s4551
+i"FourthPageView.h"
+i"MapKit/MapKit.h"
+i"MapAnnotation.h"
+i"PopoverViewController.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MapAnnotation.h
+c000000004D6758F60000000000000315
+t1298618614
+s789
+i<Foundation/Foundation.h>
+i<MapKit/MKAnnotation.h>
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MapAnnotation.m
+c000000004D6759340000000000000238
+t1298618676
+s568
+i"MapAnnotation.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MyMoviePlayerViewController.h
+c000000004D675932000000000000020D
+t1298618674
+s525
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MyMoviePlayerViewController.m
+c000000004D6758CF0000000000000453
+t1298618575
+s1107
+i"MyMoviePlayerViewController.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.h
+c000000004D6759130000000000000245
+t1298618643
+s581
+i<UIKit/UIKit.h>
+i"SlideView.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m
+c000000004D67652C00000000000019B2
+t1298621740
+s6578
+i"PageViewController.h"
+i"TopPageView.h"
+i"SecondPageView.h"
+i"ThirdPageView.h"
+i"FourthPageView.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PopoverViewController.h
+c000000004D67589D0000000000000201
+t1298618525
+s513
+i<UIKit/UIKit.h>
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PopoverViewController.m
+c000000004D6759660000000000000598
+t1298618726
+s1432
+i"PopoverViewController.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ScrollViewController.h
+c000000004D6758C00000000000000268
+t1298618560
+s616
+i<UIKit/UIKit.h>
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ScrollViewController.m
+c000000004D6758B50000000000001368
+t1298618549
+s4968
+i"ScrollViewController.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SecondPageView.h
+c000000004D6761FE0000000000000319
+t1298620926
+s793
+i<UIKit/UIKit.h>
+i"SlideView.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SecondPageView.m
+c000000004D677C1D0000000000001A09
+t1298627613
+s6665
+i"SecondPageView.h"
+i"PopoverViewController.h"
+i"MapKit/MapKit.h"
+i"MapAnnotation.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SlideView.h
+c000000004D6765C00000000000000376
+t1298621888
+s886
+i<UIKit/UIKit.h>
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SlideView.m
+c000000004D675BB100000000000007C4
+t1298619313
+s1988
+i"SlideView.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ThirdPageView.h
+c000000004D676478000000000000028B
+t1298621560
+s651
+i<UIKit/UIKit.h>
+i"SlideView.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ThirdPageView.m
+c000000004D6764900000000000001595
+t1298621584
+s5525
+i"ThirdPageView.h"
+i"MapKit/MapKit.h"
+i"MapAnnotation.h"
+i"PopoverViewController.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/TopPageView.h
+c000000004D675BBE000000000000029B
+t1298619326
+s667
+i<UIKit/UIKit.h>
+i"SlideView.h"
+i<MediaPlayer/MediaPlayer.h>
+i"MyMoviePlayerViewController.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/TopPageView.m
+c000000004D676F1B0000000000002104
+t1298624283
+s8452
+i"TopPageView.h"
+i"MapKit/MapKit.h"
+i"MapAnnotation.h"
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/MainWindow.xib
+c000000004D676B4B00000000000048DA
+t1298623307
+s18650
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1.0.LinkFileList
+c000000004D6764C20000000000000888
+t1298621634
+s2184
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o
+t1298623133
+s57032
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0ViewController.o
+t2
+s0
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ContentTableViewController.o
+t1298623228
+s54760
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/FourthPageView.o
+t1298622440
+s58212
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MapAnnotation.o
+t1298618727
+s11584
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MyMoviePlayerViewController.o
+t1298618727
+s39132
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PageViewController.o
+t1298622440
+s53740
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PopoverViewController.o
+t1298618727
+s41844
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ScrollViewController.o
+t1298618727
+s55772
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SecondPageView.o
+t1298627614
+s64536
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SlideView.o
+t1298621893
+s46148
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ThirdPageView.o
+t1298621893
+s62316
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/TopPageView.o
+t1298624285
+s72220
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/main.o
+t1298622287
+s6324
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app
+t1298627822
+s918
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app.dSYM
+t1298627614
+s102
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001.png
+t1298622872
+s222987
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001Title.txt
+t1298622872
+s591
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001_01.png
+t1298622872
+s894851
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001_02.png
+t1298622872
+s464227
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001_03.png
+t1298622872
+s355616
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002.png
+t1298622872
+s188281
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_01.png
+t1298622872
+s7657
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_02.png
+t1298622872
+s768649
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_03.png
+t1298622872
+s56318
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_04.png
+t1298622872
+s156309
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/003.png
+t1298622872
+s256677
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/004.png
+t1298622872
+s258548
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0
+t1298627614
+s89208
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1_0ViewController.nib
+t1298586685
+s1232
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Default-Portfolio.png
+t1298622872
+s17795
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Info.plist
+t1298627822
+s942
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Logo.png
+t1298622872
+s11500
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/MainWindow.nib
+t1298624018
+s1657
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PkgInfo
+t1298627822
+s8
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PublishText.txt
+t1298624368
+s392
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/ThirdText.txt
+t1298622872
+s486
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/YuitoText.txt
+t1298622872
+s151
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/icon.png
+t1298622872
+s5861
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/movie001.m4v
+t1298624017
+s5928006
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/sample001.mov
+t1298622873
+s1350388
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/001_01.png
+c000000004D65FAE900000000000DA783
+t1298529001
+s894851
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/001_02.png
+c000000004D64DD700000000000071563
+t1298455920
+s464227
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/001_03.png
+c000000004D65FB7C0000000000056D20
+t1298529148
+s355616
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/002_01.png
+c000000004D65F8F50000000000001DE9
+t1298528501
+s7657
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/002_02.png
+c000000004D65EF2500000000000BBA89
+t1298525989
+s768649
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/002_03.png
+c000000004D65F5ED000000000000DBFE
+t1298527725
+s56318
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/002_04.png
+c000000004D65F68A0000000000026295
+t1298527882
+s156309
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/Launch/Default-Portfolio.png
+c000000004D66073C0000000000004583
+t1298532156
+s17795
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/Launch/icon.png
+c000000004D65A87300000000000016E5
+t1298507891
+s5861
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/Logo.png
+c000000004D65E2690000000000002CEC
+t1298522729
+s11500
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/scroll/001.png
+c000000004D65A06F000000000003670B
+t1298505839
+s222987
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/scroll/002.png
+c000000004D65A057000000000002DF79
+t1298505815
+s188281
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/scroll/003.png
+c000000004D65A0BE000000000003EAA5
+t1298505918
+s256677
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/scroll/004.png
+c000000004D65A1B8000000000003F1F4
+t1298506168
+s258548
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/movie/movie001.m4v
+c000000004D676DA700000000005A7446
+t1298623911
+s5928006
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/movie/sample001.mov
+c000000004D66103D0000000000149AF4
+t1298534461
+s1350388
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/text/001Title.txt
+c000000004D65F358000000000000024F
+t1298527064
+s591
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/text/PublishText.txt
+c000000004D64BC590000000000000188
+t1298447449
+s392
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/text/ThirdText.txt
+c000000004D65F34300000000000001E6
+t1298527043
+s486
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/text/YuitoText.txt
+c000000004D65FD4E0000000000000097
+t1298529614
+s151
+
+N/Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m
+c000000004D6766EF0000000000000178
+t1298622191
+s376
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/AGC_sampleProgram1_0_Prefix.pch
+c000000004D66DA1400000000000000D1
+t1298586132
+s209
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Base.png
+c000000004D90069C0000000000002CD8
+t1301284508
+s11480
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Base01.png
+c000000004D9029D5000000000006C893
+t1301293525
+s444563
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Base02.png
+c000000004D9035A4000000000005AF5C
+t1301296548
+s372572
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Base03.png
+c000000004D90449E0000000000062CA4
+t1301300382
+s404644
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/AGC_sampleProgram1_0AppDelegate.h
+c000000004D676A4E000000000000030C
+t1298623054
+s780
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/AGC_sampleProgram1_0AppDelegate.m
+c000000004D6767A50000000000000972
+t1298622373
+s2418
+i"AGC_sampleProgram1_0AppDelegate.h"
+i"PageViewController.h"
+i"TopPageView.h"
+i"ContentTableViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ContentTableViewController.h
+c000000004D6758A10000000000000217
+t1298618529
+s535
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ContentTableViewController.m
+c000000004D9046130000000000000EFC
+t1301300755
+s3836
+i"ContentTableViewController.h"
+i"AGC_sampleProgram1_0AppDelegate.h"
+i"PageViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/FourthPageView.h
+c000000004D6767CB000000000000029F
+t1298622411
+s671
+i<UIKit/UIKit.h>
+i"SlideView.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/FourthPageView.m
+c000000004D90478400000000000022F4
+t1301301124
+s8948
+i"FourthPageView.h"
+i"MapKit/MapKit.h"
+i"MapAnnotation.h"
+i"PopoverViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/MapAnnotation.h
+c000000004D6758F60000000000000315
+t1298618614
+s789
+i<Foundation/Foundation.h>
+i<MapKit/MKAnnotation.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/MapAnnotation.m
+c000000004D6759340000000000000238
+t1298618676
+s568
+i"MapAnnotation.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/MyMoviePlayerViewController.h
+c000000004D8C314D000000000000020D
+t1301033293
+s525
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/MyMoviePlayerViewController.m
+c000000004D6758CF0000000000000453
+t1298618575
+s1107
+i"MyMoviePlayerViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/PageViewController.h
+c000000004D6759130000000000000245
+t1298618643
+s581
+i<UIKit/UIKit.h>
+i"SlideView.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/PageViewController.m
+c000000004D67652C00000000000019B2
+t1298621740
+s6578
+i"PageViewController.h"
+i"TopPageView.h"
+i"SecondPageView.h"
+i"ThirdPageView.h"
+i"FourthPageView.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/PopoverViewController.h
+c000000004D67589D0000000000000201
+t1298618525
+s513
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/PopoverViewController.m
+c000000004D6759660000000000000598
+t1298618726
+s1432
+i"PopoverViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ScrollViewController.h
+c000000004D6758C00000000000000268
+t1298618560
+s616
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ScrollViewController.m
+c000000004D6758B50000000000001368
+t1298618549
+s4968
+i"ScrollViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/SecondPageView.h
+c000000004D90365300000000000002A1
+t1301296723
+s673
+i<UIKit/UIKit.h>
+i"SlideView.h"
+i<MediaPlayer/MediaPlayer.h>
+i"MyMoviePlayerViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/SecondPageView.m
+c000000004D9045340000000000001B23
+t1301300532
+s6947
+i"SecondPageView.h"
+i"MapKit/MapKit.h"
+i"MapAnnotation.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/SlideView.h
+c000000004D6765C00000000000000376
+t1298621888
+s886
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/SlideView.m
+c000000004D675BB100000000000007C4
+t1298619313
+s1988
+i"SlideView.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ThirdPageView.h
+c000000004D903DC5000000000000029F
+t1301298629
+s671
+i<UIKit/UIKit.h>
+i"SlideView.h"
+i<MediaPlayer/MediaPlayer.h>
+i"MyMoviePlayerViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/ThirdPageView.m
+c000000004D90494D00000000000015CD
+t1301301581
+s5581
+i"ThirdPageView.h"
+i"MapKit/MapKit.h"
+i"MapAnnotation.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/TopPageView.h
+c000000004D902333000000000000029B
+t1301291827
+s667
+i<UIKit/UIKit.h>
+i"SlideView.h"
+i<MediaPlayer/MediaPlayer.h>
+i"MyMoviePlayerViewController.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Classes/TopPageView.m
+c000000004D9034190000000000001AE2
+t1301296153
+s6882
+i"TopPageView.h"
+i"MapKit/MapKit.h"
+i"MapAnnotation.h"
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Default-Landscape.png
+c000000004D8CBEE80000000000002387
+t1301069544
+s9095
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Default-Portfolio.png
+c000000004D8CBE930000000000002909
+t1301069459
+s10505
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Logo.png
+c000000004D9045F10000000000000E93
+t1301300721
+s3731
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/MainWindow.xib
+c000000004D676B4B00000000000048DA
+t1298623307
+s18650
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/Video_play.png
+c000000004D9040B600000000000073DA
+t1301299382
+s29658
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/btn_HP.png
+c000000004D8FFB8E0000000000012422
+t1301281678
+s74786
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/btn_Video.png
+c000000004D8FF8C8000000000001426D
+t1301280968
+s82541
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/btn_abook.png
+c000000004D900058000000000001603F
+t1301282904
+s90175
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/btn_camera.png
+c000000004D8FF2680000000000013547
+t1301279336
+s79175
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/btn_print.png
+c000000004D8FFEB7000000000000F8C3
+t1301282487
+s63683
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/btn_retouch.png
+c000000004D8FF72200000000000115CF
+t1301280546
+s71119
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1.0.LinkFileList
+c000000004D6764C20000000000000888
+t1298621634
+s2184
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o
+t1298623133
+s57032
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ContentTableViewController.o
+t1298623228
+s54760
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/FourthPageView.o
+t1298622440
+s58212
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MapAnnotation.o
+t1298618727
+s11584
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MyMoviePlayerViewController.o
+t1298618727
+s39132
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PageViewController.o
+t1298622440
+s53740
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PopoverViewController.o
+t1298618727
+s41844
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ScrollViewController.o
+t1298618727
+s55772
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SecondPageView.o
+t1298627614
+s64536
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SlideView.o
+t1298621893
+s46148
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ThirdPageView.o
+t1298621893
+s62316
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/TopPageView.o
+t1298624285
+s72220
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/main.o
+t1298622287
+s6324
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app
+t1301301961
+s918
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app.dSYM
+t1301301960
+s102
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001.png
+t1298622872
+s222987
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001Title.txt
+t1298622872
+s591
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002.png
+t1298622872
+s188281
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002Title.txt
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/003.png
+t1298622872
+s256677
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/004.png
+t1298622872
+s258548
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/005.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/006.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0
+t1298627614
+s89208
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Base.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Base01.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Base02.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Base03.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Default-Landscape.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Default-Portfolio.png
+t1298622872
+s17795
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Info.plist
+t1298627822
+s942
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Logo.png
+t1298622872
+s11500
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/MainWindow.nib
+t1298624018
+s1657
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PkgInfo
+t1298627822
+s8
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PublishText01.txt
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PublishText02.txt
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PublishText03.txt
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PublishText04.txt
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/ThirdText.txt
+t1298622872
+s486
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Video_play.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/YuitoText.txt
+t1298622872
+s151
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/btn_HP.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/btn_Video.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/btn_abook.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/btn_camera.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/btn_print.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/btn_retouch.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/florida.m4v
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/icon.png
+t1298622872
+s5861
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/index.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/s001.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/s002.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/s003.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/s004.png
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/001.png
+c000000004D903197000000000007679F
+t1301295511
+s485279
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/002.png
+c000000004D9031BC000000000006DD8B
+t1301295548
+s449931
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/003.png
+c000000004D9031E5000000000006CF1A
+t1301295589
+s446234
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/004.png
+c000000004D90320F000000000007A09C
+t1301295631
+s499868
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/005.png
+c000000004D90321D00000000000744FE
+t1301295645
+s476414
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/image/scroll/006.png
+c000000004D903233000000000006B43D
+t1301295667
+s439357
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/001Title.txt
+c000000004D8CCE1B0000000000000057
+t1301073435
+s87
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/002Title.txt
+c000000004D90150C000000000000000C
+t1301288204
+s12
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText01.txt
+c000000004D8FEFC10000000000000432
+t1301278657
+s1074
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText02.txt
+c000000004D901EC00000000000000328
+t1301290688
+s808
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText03.txt
+c000000004D903CDE00000000000003EE
+t1301298398
+s1006
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/PublishText04.txt
+c000000004D90492800000000000003D7
+t1301301544
+s983
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/ThirdText.txt
+c000000004D65F34300000000000001E6
+t1298527043
+s486
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/content/text/YuitoText.txt
+c000000004D65FD4E0000000000000097
+t1298529614
+s151
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/florida.m4v
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/icon.png
+c000000004D8CCB400000000000000C75
+t1301072704
+s3189
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/index.png
+c000000004D8FF3000000000000002BCF
+t1301279488
+s11215
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/main.m
+c000000004D6766EF0000000000000178
+t1298622191
+s376
+i<UIKit/UIKit.h>
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/s001.png
+c000000004D9038B40000000000070A89
+t1301297332
+s461449
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/s002.png
+c000000004D9038C10000000000055947
+t1301297345
+s350535
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/s003.png
+c000000004D9038CD00000000000606B0
+t1301297357
+s394928
+
+N/Users/mizunomasashi/Dropbox/SSkikaku/s004.png
+c000000004D90390F0000000000045425
+t1301297423
+s283685
+
+N/var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch.gch
+t1298586686
+s15809968
+
+NAGC_sampleProgram1_0-Info.plist
+c000000004D8CCB6800000000000005CC
+t1301072744
+s1484
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320320622#320320622#0(0"0(0#1#0"8609342240#0"0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320315933.436662
+e320315933.549234
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m320315933#320315933#0(0"0(0#0#87"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m3419188088635747328#2313"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0AppDelegate.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0AppDelegate.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/AGC_sampleProgram1_0AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1_0ViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/AGC_sampleProgram1_0ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ContentTableViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ContentTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320316028.571584
+e320316028.798533
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ContentTableViewController.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ContentTableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ContentTableViewController.m320316028#320316028#0(0"0(0#0#82"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ContentTableViewController.m8600190784#2303"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ContentTableViewController.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ContentTableViewController.o0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ContentTableViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ContentTableViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/FourthPageView.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/FourthPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320315240.518027
+e320315240.686851
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/FourthPageView.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/FourthPageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/FourthPageView.m320315240#320315240#0(0"0(0#0#70"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/FourthPageView.m8616254144#2279"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/FourthPageView.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/FourthPageView.o0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/FourthPageView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/FourthPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MapAnnotation.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MapAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320311527.348924
+e320311527.431137
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MapAnnotation.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MapAnnotation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MapAnnotation.m320311527#320311527#0(0"0(0#0#69"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MapAnnotation.m8612074560#2277"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MapAnnotation.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MapAnnotation.o0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MapAnnotation.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/MapAnnotation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MyMoviePlayerViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MyMoviePlayerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320311527.404920
+e320311527.506316
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MyMoviePlayerViewController.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MyMoviePlayerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MyMoviePlayerViewController.m320311527#320311527#0(0"0(0#0#83"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MyMoviePlayerViewController.m8609266272#2305"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/MyMoviePlayerViewController.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MyMoviePlayerViewController.o0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/MyMoviePlayerViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/MyMoviePlayerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PageViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320315240.398687
+e320315240.517214
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PageViewController.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m320315240#320315240#0(0"0(0#0#74"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m8616801760#2287"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PageViewController.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PageViewController.o0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PageViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/PageViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PopoverViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PopoverViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320311527.506429
+e320311527.642911
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PopoverViewController.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PopoverViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PopoverViewController.m320311527#320311527#0(0"0(0#0#77"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PopoverViewController.m8605988608#2293"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/PopoverViewController.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PopoverViewController.o0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/PopoverViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/PopoverViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ScrollViewController.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ScrollViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320311527.431241
+e320311527.541634
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ScrollViewController.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ScrollViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ScrollViewController.m320311527#320311527#0(0"0(0#0#76"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ScrollViewController.m8606761760#2291"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ScrollViewController.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ScrollViewController.o0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ScrollViewController.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ScrollViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SecondPageView.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SecondPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320320414.167350
+e320320414.342192
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SecondPageView.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SecondPageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SecondPageView.m320320414#320320414#0(0"0(0#0#70"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SecondPageView.m8619077888#2279"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SecondPageView.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SecondPageView.o0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SecondPageView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/SecondPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SlideView.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SlideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320314693.625579
+e320314693.764146
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SlideView.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SlideView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SlideView.m320314693#320314693#0(0"0(0#0#65"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SlideView.m8615204480#2269"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/SlideView.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SlideView.o0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/SlideView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/SlideView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ThirdPageView.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ThirdPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320314693.871301
+e320314693.991730
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ThirdPageView.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ThirdPageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ThirdPageView.m320314693#320314693#0(0"0(0#0#69"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ThirdPageView.m8600810976#2277"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/ThirdPageView.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ThirdPageView.o0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/ThirdPageView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/ThirdPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/TopPageView.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/TopPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320317085.664914
+e320317085.875849
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/TopPageView.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/TopPageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/TopPageView.m320317085#320317085#0(0"0(0#0#67"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/TopPageView.m8608207744#2273"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/Classes/TopPageView.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/TopPageView.o0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/TopPageView.o /Users/mizunomasashi/Dropbox/SSkikaku/Classes/TopPageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/main.o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320315087.056244
+e320315087.222734
+r1
+xCompileC
+xbuild/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/main.o
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m320315087#320315087#0(0"0(0#0#52"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m8615477376#2251"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -include /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/main.m -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/main.o0#
+
+CCompileC build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/main.o /Users/mizunomasashi/Dropbox/SSkikaku/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0ViewController.xib
+s320279485.472210
+e320279485.907296
+r1
+xCompileXIB
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0ViewController.xib
+lSLF07#2@49"CompileXIB AGC_sampleProgram1_0ViewController.xib320279485#320279485#0(0"0(0#0#84"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0ViewController.xib8610657184#652"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1_0ViewController.nib /Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/masa_jene/Desktop/AGC_sampleProgram1.0/MainWindow.xib
+s320316817.569837
+e320316818.650192
+r1
+xCompileXIB
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320316817#320316818#0(0"0(0#0#60"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/MainWindow.xib32370056117878832#604"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/MainWindow.nib /Users/masa_jene/Desktop/AGC_sampleProgram1.0/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mizunomasashi/Dropbox/SSkikaku/MainWindow.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001.png content/image/scroll/001.png
+s320315672.876325
+e320315672.900538
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001.png
+xcontent/image/scroll/001.png
+lSLF07#2@33"Copy content/image/scroll/001.png320315672#320315672#0(0"0(0#0#74"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/scroll/001.png8608983104#520"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/scroll/001.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001Title.txt content/text/001Title.txt
+s320315672.891854
+e320315672.956033
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001Title.txt
+xcontent/text/001Title.txt
+lSLF07#2@30"Copy content/text/001Title.txt320315672#320315672#0(0"0(0#0#71"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/text/001Title.txt8604182240#517"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/text/001Title.txt /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001_01.png content/image/001_01.png
+s320315672.825565
+e320315672.878607
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001_01.png
+xcontent/image/001_01.png
+lSLF07#2@29"Copy content/image/001_01.png320315672#320315672#0(0"0(0#0#70"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/001_01.png13510996453818476#516"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/001_01.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001_02.png content/image/001_02.png
+s320315672.863007
+e320315672.885916
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001_02.png
+xcontent/image/001_02.png
+lSLF07#2@29"Copy content/image/001_02.png320315672#320315672#0(0"0(0#0#70"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/001_02.png8610504672#516"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/001_02.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001_03.png content/image/001_03.png
+s320315672.863718
+e320315672.889710
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/001_03.png
+xcontent/image/001_03.png
+lSLF07#2@29"Copy content/image/001_03.png320315672#320315672#0(0"0(0#0#70"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/001_03.png8610185216#516"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/001_03.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002.png content/image/scroll/002.png
+s320315672.878700
+e320315672.906254
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002.png
+xcontent/image/scroll/002.png
+lSLF07#2@33"Copy content/image/scroll/002.png320315672#320315672#0(0"0(0#0#74"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/scroll/002.png8608110368#520"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/scroll/002.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002Title.txt content/text/002Title.txt
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_01.png content/image/002_01.png
+s320315672.864320
+e320315672.880971
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_01.png
+xcontent/image/002_01.png
+lSLF07#2@29"Copy content/image/002_01.png320315672#320315672#0(0"0(0#0#70"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/002_01.png8610114368#516"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/002_01.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_02.png content/image/002_02.png
+s320315672.866606
+e320315672.898462
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_02.png
+xcontent/image/002_02.png
+lSLF07#2@29"Copy content/image/002_02.png320315672#320315672#0(0"0(0#0#70"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/002_02.png8610044256#516"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/002_02.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_03.png content/image/002_03.png
+s320315672.868527
+e320315672.909543
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_03.png
+xcontent/image/002_03.png
+lSLF07#2@29"Copy content/image/002_03.png320315672#320315672#0(0"0(0#0#70"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/002_03.png8609795264#516"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/002_03.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_04.png content/image/002_04.png
+s320315672.870243
+e320315672.902426
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/002_04.png
+xcontent/image/002_04.png
+lSLF07#2@29"Copy content/image/002_04.png320315672#320315672#0(0"0(0#0#70"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/002_04.png8609490944#516"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/002_04.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/003.png content/image/scroll/003.png
+s320315672.881105
+e320315672.977472
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/003.png
+xcontent/image/scroll/003.png
+lSLF07#2@33"Copy content/image/scroll/003.png320315672#320315672#0(0"0(0#0#74"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/scroll/003.png8605530656#520"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/scroll/003.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/004.png content/image/scroll/004.png
+s320315672.886010
+e320315672.906382
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/004.png
+xcontent/image/scroll/004.png
+lSLF07#2@33"Copy content/image/scroll/004.png320315672#320315672#0(0"0(0#0#74"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/scroll/004.png8605016544#520"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/scroll/004.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/005.png content/image/scroll/005.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/006.png content/image/scroll/006.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Base.png Base.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Base01.png Base01.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Base02.png Base02.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Base03.png Base03.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Default-Landscape.png Default-Landscape.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Default-Portfolio.png Default-Portfolio.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Default-Portfolio.png content/image/Launch/Default-Portfolio.png
+s320315672.872110
+e320315672.891775
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Default-Portfolio.png
+xcontent/image/Launch/Default-Portfolio.png
+lSLF07#2@47"Copy content/image/Launch/Default-Portfolio.png320315672#320315672#0(0"0(0#0#88"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/Launch/Default-Portfolio.png8609437280#534"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/Launch/Default-Portfolio.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Logo.png Logo.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Logo.png content/image/Logo.png
+s320315672.889801
+e320315672.910681
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Logo.png
+xcontent/image/Logo.png
+lSLF07#2@27"Copy content/image/Logo.png320315672#320315672#0(0"0(0#0#68"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/Logo.png8604767840#514"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/Logo.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PublishText.txt content/text/PublishText.txt
+s320317168.808491
+e320317168.826899
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PublishText.txt
+xcontent/text/PublishText.txt
+lSLF07#2@33"Copy content/text/PublishText.txt320317168#320317168#0(0"0(0#0#74"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/text/PublishText.txt8609348512#520"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/text/PublishText.txt /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PublishText01.txt content/text/PublishText01.txt
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PublishText02.txt content/text/PublishText02.txt
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PublishText03.txt content/text/PublishText03.txt
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PublishText04.txt content/text/PublishText04.txt
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/ThirdText.txt content/text/ThirdText.txt
+s320315672.896645
+e320315672.956196
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/ThirdText.txt
+xcontent/text/ThirdText.txt
+lSLF07#2@31"Copy content/text/ThirdText.txt320315672#320315672#0(0"0(0#0#72"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/text/ThirdText.txt8602435424#518"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/text/ThirdText.txt /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Video_play.png Video_play.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/YuitoText.txt content/text/YuitoText.txt
+s320315672.898538
+e320315672.957439
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/YuitoText.txt
+xcontent/text/YuitoText.txt
+lSLF07#2@31"Copy content/text/YuitoText.txt320315672#320315672#0(0"0(0#0#72"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/text/YuitoText.txt8599446368#518"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/text/YuitoText.txt /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/btn_HP.png btn_HP.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/btn_Video.png btn_Video.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/btn_abook.png btn_abook.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/btn_camera.png btn_camera.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/btn_print.png btn_print.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/btn_retouch.png btn_retouch.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/florida.m4v florida.m4v
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/icon.png content/image/Launch/icon.png
+s320315672.873871
+e320315672.896554
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/icon.png
+xcontent/image/Launch/icon.png
+lSLF07#2@34"Copy content/image/Launch/icon.png320315672#320315672#0(0"0(0#0#75"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/Launch/icon.png8609183840#521"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/image/Launch/icon.png /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/icon.png icon.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/index.png index.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/movie001.m4v content/movie/movie001.m4v
+s320316817.571609
+e320316818.203809
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/movie001.m4v
+xcontent/movie/movie001.m4v
+lSLF07#2@31"Copy content/movie/movie001.m4v320316817#320316818#0(0"0(0#0#72"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/movie/movie001.m4v8602396160#518"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/movie/movie001.m4v /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/s001.png s001.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/s002.png s002.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/s003.png s003.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/s004.png s004.png
+r0
+
+CCpResource build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/sample001.mov content/movie/sample001.mov
+s320315672.900619
+e320315673.011358
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AGC_sampleProgram1.0.app/sample001.mov
+xcontent/movie/sample001.mov
+lSLF07#2@32"Copy content/movie/sample001.mov320315672#320315673#0(0"0(0#0#73"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/movie/sample001.mov8609132544#519"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/masa_jene/Desktop/AGC_sampleProgram1.0/content/movie/sample001.mov /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CGenerateDSYMFile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app.dSYM /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0
+s320320414.380623
+e320320414.418630
+r1
+xGenerateDSYMFile
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app.dSYM
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0
+lSLF07#2@148"GenerateDSYMFile build/Debug-iphonesimulator/AGC_sampleProgram1.0.app.dSYM build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0320320414#320320414#0(0"0(0#0#119"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.08609907616#443"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0 -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app.dSYM0#
+
+CGenerateDSYMFile /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app.dSYM /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0
+r0
+
+CLd /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0 normal i386
+s320320414.342286
+e320320414.380478
+r1
+xLd
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0
+xnormal
+xi386
+lSLF07#2@124"Link /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0320320414#320320414#0(0"0(0#0#0"8610117152#1041"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -filelist /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/Objects-normal/i386/AGC_sampleProgram1.0.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MapKit -framework MediaPlayer -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.00#
+
+CLd /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/AGC_sampleProgram1.0 normal i386
+r0
+
+CProcessInfoPlistFile /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Info.plist AGC_sampleProgram1_0-Info.plist
+s320320622.585760
+e320320622.589307
+r1
+xProcessInfoPlistFile
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Info.plist
+xAGC_sampleProgram1_0-Info.plist
+lSLF07#2@39"Process AGC_sampleProgram1_0-Info.plist320320622#320320622#0(0"0(0#0#77"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0-Info.plist8617523296#539"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AGC_sampleProgram1_0-Info.plist -genpkginfo /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app/Info.plist AGC_sampleProgram1_0-Info.plist
+r0
+
+CProcessPCH /var/folders/np/np+asOXAGgujfWebgst35U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-diovbjotulcneleovmgpjcmkgrdo/AGC_sampleProgram1_0_Prefix.pch.gch AGC_sampleProgram1_0_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch.gch AGC_sampleProgram1_0_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320279485.960308
+e320279486.867802
+r1
+xProcessPCH
+x/var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch.gch
+xAGC_sampleProgram1_0_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@42"Precompile AGC_sampleProgram1_0_Prefix.pch320279485#320279486#0(0"0(0#0#77"/Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0_Prefix.pch8609096000#2123"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-generated-files.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-own-target-headers.hmap -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-all-target-headers.hmap -iquote /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/AGC_sampleProgram1.0-project-headers.hmap -F/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/include -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources/i386 -I/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/AGC_sampleProgram1.0.build/Debug-iphonesimulator/AGC_sampleProgram1.0.build/DerivedSources -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/AGC_sampleProgram1_0_Prefix.pch -o /var/folders/pB/pBKaFTHQHlOpn6EhZc6OLE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AGC_sampleProgram1_0_Prefix-dbkxkfbxvncoiufggetbrmxexwos/AGC_sampleProgram1_0_Prefix.pch.gch0#
+
+CTouch /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app
+s320320622.592718
+e320320622.596190
+r1
+xTouch
+x/Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app
+lSLF07#2@104"Touch /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app320320622#320320622#0(0"0(0#0#0"8606642560#305"    cd /Users/masa_jene/Desktop/AGC_sampleProgram1.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/masa_jene/Desktop/AGC_sampleProgram1.0/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app0#
+
+CTouch /Users/mizunomasashi/Dropbox/SSkikaku/build/Debug-iphonesimulator/AGC_sampleProgram1.0.app
+r0
+
